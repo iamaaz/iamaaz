@@ -18,7 +18,7 @@ skills in cloud engineering, cybersecurity and data.
 | [uk-data-analysis](link) | Cleans and analyses a public UK dataset | Python, pandas |
 
 ## Skills I'm building
-Python, SQL, Linux, Git, AWS, Docker (add only what you can show)
+Python, SQL, Linux, HTML, CSS, JavaScript, 
 
 ## Connect
-[LinkedIn](your link) | [Email](your email)
+[LinkedIn](https://www.linkedin.com/in/maaz-hussain-1694371b2/) | [Email](maazh8832@gmail.com)
