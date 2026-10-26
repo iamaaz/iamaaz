@@ -11,11 +11,11 @@ I'm pursuing a **Master's degree in Computer Science at York St John University*
 
 ## Projects
 
-Here are three small projects I plan to build to practise frontend development. Live website links will be added once each project is finished and published.
+Here are projects I'm building to practise frontend development. My personal portfolio is live; links for upcoming projects will be added when they're finished and published.
 
 | Project | What I'll build | Tools | Live website |
 |---|---|---|---|
-| Personal portfolio | A responsive site to introduce myself and showcase my work | HTML, CSS, JavaScript | Coming soon |
+| Personal portfolio | A responsive site to introduce myself and showcase my work | HTML, CSS, JavaScript | [Visit my portfolio](https://iamaaz.github.io/maaz-hussain-portfolio/) |
 | Café landing page | A polished homepage with a menu, opening hours, and contact details | HTML, CSS, JavaScript | Coming soon |
 | Study planner | A task and study planner that saves tasks in the browser | HTML, CSS, JavaScript, local storage | Coming soon |
 
